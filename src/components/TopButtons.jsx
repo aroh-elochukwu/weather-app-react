@@ -16,11 +16,11 @@ function TopButtons() {
     },
     {
       id: 4,
-      title: 'Saskatchewan'
+      title: 'Regina'
     },
     {
       id: 5,
-      title: 'Ontario'
+      title: 'Toronto'
     },
   ]
 
